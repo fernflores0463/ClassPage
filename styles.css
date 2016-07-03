@@ -1,0 +1,11 @@
+img {
+	height: 100px;
+}
+body{
+	background: green;
+}
+
+#banner {
+	float: left;
+	height: 100%;
+}

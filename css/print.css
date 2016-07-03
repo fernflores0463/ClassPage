@@ -1,0 +1,17 @@
+@media print{
+
+	body {
+	background-color: white;
+	color: black;
+	font-family: "Times New Roman", Times, serif;
+	}
+
+	img{
+		display: none;
+	}
+
+	a{
+		color: black;
+	}
+
+}
